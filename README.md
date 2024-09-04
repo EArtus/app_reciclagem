@@ -48,10 +48,7 @@ RN5: Feedbacks dos usuários após a coleta são obrigatórios para melhorar o s
 
 # Modelagem do Banco de Dados
 
-Usuário: armazena informações de login e contato.
-Item: detalhes sobre cada item reciclável.
-Coleta: informações sobre coletas agendadas, incluindo usuário, itens e datas.
-Ponto de Descarte: localização e tipos de resíduos aceitos.
+![diagrama](https://github.com/user-attachments/assets/16fb171d-5818-4968-a357-9ca91dbac54f)
 
 
 
