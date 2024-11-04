@@ -7,6 +7,7 @@ const Footer = () => {
       <Text style={styles.text}>© 2024 - Meu App</Text>
     </View>
   );
+  
 };
 
 const styles = StyleSheet.create({
