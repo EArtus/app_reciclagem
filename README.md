@@ -72,7 +72,7 @@ Antes de iniciar, é necessário ter instalado:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/EArtus/Projeto_DS_II.git
+git clone https://github.com/EArtus/app_reciclagem.git
 ```
 
 2. **Acesse a pasta do projeto**
