@@ -77,7 +77,7 @@ git clone https://github.com/EArtus/app_reciclagem.git
 
 2. **Acesse a pasta do projeto**
 ```bash
-cd Projeto_DS_II
+cd app_reciclagem
 ```
 
 3. **Instale as dependências**
