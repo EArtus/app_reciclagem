@@ -50,3 +50,61 @@ Promover a conscientização sobre a importância da reciclagem e fornecer um me
 - React Navigation
 - Axios
 - Geolocation API
+
+---
+
+## 📦 Como executar o projeto
+
+### ✅ Pré-requisitos
+
+Antes de iniciar, é necessário ter instalado:
+
+- [Node.js (recomendado: LTS)]
+- [Expo CLI]
+- [Git]
+- Um editor de código, como [Visual Studio Code]
+
+> Você também pode instalar o **Expo Go** no seu celular (Android/iOS) para testar o app via QR code.
+
+---
+
+### 🔧 Instalação
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/EArtus/Projeto_DS_II.git
+```
+
+2. **Acesse a pasta do projeto**
+```bash
+cd Projeto_DS_II
+```
+
+3. **Instale as dependências**
+```bash
+npm install
+# ou, se estiver usando yarn:
+# yarn
+```
+
+---
+
+### ▶️ Executando o projeto
+
+1. **Inicie o servidor de desenvolvimento**
+```bash
+npx expo start
+```
+
+2. **Escolha como rodar o app:**
+   - **No navegador:** pressione `w` no terminal
+   - **No emulador Android:** pressione `a` (requer Android Studio configurado)
+   - **No emulador iOS:** pressione `i` (macOS com Xcode instalado)
+   - **No seu celular:** escaneie o QR code com o app **Expo Go**
+
+---
+
+### ⚠️ Observações
+
+- Certifique-se de estar com o celular e o PC na **mesma rede Wi-Fi**, se for rodar via QR code.
+- O projeto utiliza **Firebase** para autenticação e banco de dados, portanto é necessário configurar o arquivo de conexão (`firebaseConfig.js`). Se esse arquivo estiver ausente por segurança, entre em contato com o autor para obter os dados corretos ou conecte sua própria instância Firebase.
